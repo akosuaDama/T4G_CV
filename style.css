@@ -1,0 +1,19 @@
+body{
+    margin: 20px;
+}
+.Contact{
+    display: flex;
+}
+h1{
+    background-color: aqua;
+    width: 2000px;
+}
+.circle image{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+h3{
+    color: rgb(44, 126, 214);
+}
