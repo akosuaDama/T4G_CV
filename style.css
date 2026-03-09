@@ -20,6 +20,5 @@ h3{
     display: flex;
     gap: 10px;
 }
-.container{
-    width: 50%;
+.p1{background-color:bisque;
 }
