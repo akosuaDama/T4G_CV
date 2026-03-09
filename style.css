@@ -8,12 +8,18 @@ h1{
     background-color: aqua;
     width: 2000px;
 }
-.circle image{
+.circle-image{
     border-radius: 50%;
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
+    width: 200px;
+    height: 200px;
 }
 h3{
     color: rgb(44, 126, 214);
+}
+.container{
+    display: flex;
+    gap: 10px;
+}
+.container{
+    width: 50%;
 }
