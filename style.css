@@ -22,3 +22,10 @@ h3{
 }
 .p1{background-color:bisque;
 }
+.image1{
+    border: 2px solid black;
+}
+button{
+    background-color: #5f4bce;
+    color: white;
+}
